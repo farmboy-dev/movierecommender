@@ -1,4 +1,4 @@
-# movierecommender
+# Movie Recommender
 
 This is Movie Recommender using deep autoencoder. <p>
 
